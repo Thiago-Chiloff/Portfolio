@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import { Container } from "react-bootstrap";
 import Particle from "../Particle";
 import imagemCertificado from "/VsCode/Portfolio-master/src/components/Resume/Certificado-alura.png"
-import imagemCC50 from "/VsCode/Portfolio-master/src/components/Resume/CC50.png"
+import imagemCC50 from "/VsCode/Portfolio-master/src/components/Resume/CC50(2).png"
 
 
 function ResumeNew() {
